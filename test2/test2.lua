@@ -11,3 +11,7 @@ end
 function test5()
 
 end
+
+function test7()
+
+end
