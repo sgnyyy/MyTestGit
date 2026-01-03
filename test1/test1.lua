@@ -4,5 +4,5 @@
 ---
 
 function funcName()
-    print("66661111112211")
+    print("6666111111221177")
 end
