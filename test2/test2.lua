@@ -17,5 +17,5 @@ function test7()
 end
 
 function test7()
-    print("1111")
+    print("11112")
 end
