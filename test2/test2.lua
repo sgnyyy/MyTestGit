@@ -19,3 +19,7 @@ end
 function test7()
     print("11112")
 end
+
+function test7()
+    print("11112666")
+end
