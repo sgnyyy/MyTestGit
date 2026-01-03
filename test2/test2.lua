@@ -3,3 +3,7 @@
 --- Created by guonan.
 --- DateTime: 2026/1/3 12:19
 ---
+
+function test2()
+    
+end
